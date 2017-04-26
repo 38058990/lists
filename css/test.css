@@ -1,0 +1,11 @@
+*{padding: 0;margin: 0;}
+html,body{height: 100%;}
+body{font-family:'微软雅黑'}
+.left{height: 100%;width:240px;background:#333333;position: fixed;}
+.right{height:100%;width:auto;margin-left: 250px;}
+.imge{height:50px;width:200px;background: #333333;margin:20px 20px;}
+tr,td{height:40px;width:200px;background:#666666;}
+table{position: absolute;margin:0 20px;}
+.ziti{color: #ffffff;text-align: center;line-height: 14px;}
+tbody td:hover{background:#999999;color:#424242;}
+iframe{height: 100%;width: 100%;}
